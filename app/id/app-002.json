@@ -1,16 +1,16 @@
 {
     "appid":"app-001",
     "appname":{
-        "zh-cn":"Visual Studio Code",
-        "en-us":"Visual Studio Code"
+        "zh-cn":"Python",
+        "en-us":"Python"
     },
     "description":{
-        "zh-cn":"Visual Studio Code 是一个免费的、轻量级且可扩展的代码编辑器，用于构建网页、桌面和移动应用，可以使用任何编程语言和框架。Visual Studio Code 内置了对 Git 源代码管理的支持，并且与 GitHub 有强大的集成，还提供集成调试器，以及带有 IntelliSense 和 AI 驱动的 IntelliCode 的智能代码补全。在 Visual Studio Code Marketplace 中有超过 30,000 个扩展和主题，你可以根据自己的需求、喜好和风格来自定义 Visual Studio Code 的功能和外观。你可以使用 Visual Studio Code 构建任何类型的应用，无论是网页、桌面还是移动设备应用。Visual Studio Code 原生支持 JavaScript 和 TypeScript，还提供了用于 Python、Java、C/C++、C#、Go、Rust、PHP 及更多语言的扩展。",
-        "en-us":"Visual Studio Code is a free, lightweight, and extensible code editor for building web, desktop, and mobile applications, using any programming language and framework.Visual Studio Code has built-in support for Git source control management and powerful integrations with GitHub, an integrated debugger, and smart code completion with IntelliSense and with AI-driven IntelliCode. With over 30,000 extensions and themes in the Visual Studio Code Marketplace, you can customize the features and the look of Visual Studio Code to fit your needs, preferences, and style.You can use Visual Studio Code to build any kind of app, for web, desktop, and mobile. Visual Studio Code supports JavaScript and TypeScript natively and offers extensions for coding in languages such as Python, Java, C/C++, C#, Go, Rust, PHP, and many more."
+        "zh-cn":"Python 是一种易于学习、功能强大的编程语言。它拥有高效的高级数据结构，以及一种简单但有效的面向对象编程方法。Python 优雅的语法和动态类型，加上它的解释型特性，使其成为在大多数平台上进行脚本编写和快速应用开发的理想语言。Python 解释器和广泛的标准库可以免费以源代码或二进制形式在所有主要平台上获取，网址是 https://www.python.org/，并且可以自由分发。该网站也包含了许多免费的第三方 Python 模块、程序和工具的分发版及相关链接，以及额外的文档。Python 解释器可以轻松扩展，使用 C 或 C++（或其他可从 C 调用的语言）实现新函数和数据类型。Python 也适合作为可定制应用程序的扩展语言。",
+        "en-us":"Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms.The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications."
     },
-    "downloadurl":"https://xxx.microsoft.com/download/visualstudiocode_1.0.x.exe",
-    "icon":"https://raw.githubusercontent.com/AceYunJian/CodeMarket/main/app/id/icon/app-001.png", 
-    "historyverurl":"https://github.com/AceYunJian/CodeMarket/app/id/ver/history/app-001.json",
-    "currentver":"https://raw.githubusercontent.com/AceYunJian/CodeMarket/main/app/id/icon/app-001.png",
+    "downloadurl":"https://raw.githubusercontent.com/AceYunJian/CodeMarket/blob/main/app/resource/app-002.msix",
+    "icon":"https://raw.githubusercontent.com/AceYunJian/CodeMarket/main/app/id/icon/app-002.png", 
+    "historyverurl":"https://github.com/AceYunJian/CodeMarket/app/id/ver/history/app-002.json",
+    "currentver":"https://raw.githubusercontent.com/AceYunJian/CodeMarket/main/app/id/icon/app-002.png",
     "tags":["tools", "development"]
 }
